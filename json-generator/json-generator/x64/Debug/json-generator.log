@@ -1,0 +1,3 @@
+﻿  json-generator.cpp
+C:\Users\kaori\source\repos\json-generator\json-generator\json-generator\json-generator.cpp(40,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  json-generator.vcxproj -> C:\Users\kaori\source\repos\json-generator\json-generator\x64\Debug\json-generator.exe
